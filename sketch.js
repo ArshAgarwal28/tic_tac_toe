@@ -1,3 +1,6 @@
+var check=0;
+
+
 function checkForWinner() {
   console.log("checking for winner...")
   var winner
